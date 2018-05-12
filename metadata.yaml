@@ -1,0 +1,31 @@
+_repo: Fresh-Fields_44127
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44127-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Burroughs, John
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '1127'
+    url: http://www.gutenberg.org/2009/agents/1127
+    wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
+description: ''
+gutenberg_issued: '2013-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44127'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Natural history -- Outdoor books'
+tableOfContents: 'Nature in England -- English woods: a contrast -- In Carlyle''s
+  country -- A hunt for the nightingale -- English and American song-birds -- Impressions
+  of some English birds -- In Wordsworth''s country -- A glance at British wild flowers
+  -- British fertility -- A Sunday in Cheyne row -- At sea.'
+title: Fresh Fields
+url: http://www.gutenberg.org/ebooks/44127
